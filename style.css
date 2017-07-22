@@ -1,0 +1,17 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  font-family: 'Acme', sans-serif;
+  display: flex;
+  justify-content: center;
+}
+
+.pokemon-list {
+  text-align: center;
+  background-color: #F3F37F;
+  border: 2px solid;
+  border-radius: 5px;
+  width: 15%;
+}
